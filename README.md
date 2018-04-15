@@ -12,20 +12,20 @@
 
 ### 实验结果：
 
-![X1](D:\AndroidStudioProjects\AndroidTutorials-master\4.UImodule\CustomMenu\Picture\X1.png)
+![X1](https://github.com/NEWSOUL046/XMLMunu/blob/master/Picture/X1.png)
 
 ***显示菜单***
 
-![X2](D:\AndroidStudioProjects\AndroidTutorials-master\4.UImodule\CustomMenu\Picture\X2.png)
+![X2](https://github.com/NEWSOUL046/XMLMunu/blob/master/Picture/X2.png)
 
 ***改变字体大小***
 
-![X2](D:\AndroidStudioProjects\AndroidTutorials-master\4.UImodule\CustomMenu\Picture\X4.png)
+![X2](https://github.com/NEWSOUL046/XMLMunu/blob/master/Picture/X4.png)
 
-![X2](D:\AndroidStudioProjects\AndroidTutorials-master\4.UImodule\CustomMenu\Picture\X5.png)
+![X2](https://github.com/NEWSOUL046/XMLMunu/blob/master/Picture/X5.png)
 
 ***改变字体颜色***
 
-![X2](D:\AndroidStudioProjects\AndroidTutorials-master\4.UImodule\CustomMenu\Picture\X6.png)
+![X2](https://github.com/NEWSOUL046/XMLMunu/blob/master/Picture/X6.png)
 
-![X2](D:\AndroidStudioProjects\AndroidTutorials-master\4.UImodule\CustomMenu\Picture\X7.png)
+![X2](https://github.com/NEWSOUL046/XMLMunu/blob/master/Picture/X7.png)
